@@ -93,7 +93,13 @@
 ![poisk](./photo/pokaz.jpg)
 
 # Сборка проекта с помощью g++
-![sbor](./photo/sbor.jpg).
+![sbor](./photo/sbor.jpg)
+
+# Cmake
+![sborc](./photo/terminal.jpg)
+
+![sborcm](./photo/terminal_2.jpg)
+
 
 
 # Заключение
